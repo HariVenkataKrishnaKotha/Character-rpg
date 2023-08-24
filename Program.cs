@@ -1,5 +1,6 @@
 global using Character_rpg.Services;
 using Character_rpg.Services.CharacterService;
+using Character_rpg.Dtos;
 
 var builder = WebApplication.CreateBuilder(args);
 
